@@ -1,5 +1,5 @@
 # Kangaroos-Kiwis-love-UN-SDGs
-https://jp-thoma.github.io/Kangaroos-Kiwis-love-UN-SDGs/index.html
+https://jp-thoma.github.io/Kangaroos-Kiwis-love-UN-SDGs/
 
 How do the UN Sustainable Development Goals compare for Australia & New Zealand?
 We take you through an interacive story told in numbers with the help of Python, Tableau and Web Development. The aim of this project is to compare & draw insights from the chosen few sustainable development goals (SDG) for both counties – Australia and New Zealand.
